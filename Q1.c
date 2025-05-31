@@ -1,7 +1,6 @@
+/*The code returns "0" if the given string is in alphabetical order else it returns the index number from where the alphabetical order starts to break*/
 
 
-
-//Header Files
 #include<stdio.h>
 #include<stdlib.h>
 #include<string.h>
